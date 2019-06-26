@@ -1692,7 +1692,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "socialFacebook": true,
-            "postsNumber": 5,
+            "postsNumber": "1",
             "socialGoogle": false,
             "socialDisqus": false,
             "shortName": "",
