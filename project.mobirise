@@ -361,7 +361,7 @@
                 "title": "<b>ARTE ALICANTE</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b>ORIGINAL PAINTING</b>",
+                "text": "<b>ORIGINAL PAINTINGS</b>",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>",
                 "overlayOpacity": "0.1"
               }
