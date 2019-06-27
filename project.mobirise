@@ -331,7 +331,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/roka-1-2000x1587.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": false,
@@ -344,12 +344,12 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "ORIGINAL PAINTING",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PARA MAC</a>",
                 "overlayOpacity": "0.1"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/roka-5-2000x2040.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
