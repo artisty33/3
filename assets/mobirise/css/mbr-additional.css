@@ -4331,18 +4331,11 @@ body {
   -webkit-flex-shrink: 0;
 }
 .cid-ruIcb8J1X1 .img-text {
-  width: 64px;
-  height: 64px;
-  font-size: 32px;
+  width: 20px;
+  height: 20px;
+  font-size: 10px;
   border: 2px solid #efefef;
   border-radius: 50%;
-}
-@media (max-width: 991px) {
-  .cid-ruIcb8J1X1 .img-text {
-    width: 48px;
-    height: 48px;
-    font-size: 24px;
-  }
 }
 @media (min-width: 992px) {
   .cid-ruIcb8J1X1 .cards-block {
