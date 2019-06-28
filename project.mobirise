@@ -38,7 +38,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.3",
     "siteFonts": [],
-    "uniqCompNum": 16,
+    "uniqCompNum": 17,
     "versionPublish": "4.10.3",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -3877,6 +3877,22 @@
               }
             ]
           }
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content8",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black\" href=\"https://www.ikea.com/es/es/p/ribba-marco-negro-50268874/\" data-app-placeholder=\"Type Text\" target=\"_blank\">COMPRAR MARCO NEGRO</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://www.ikea.com/es/es/p/ribba-marco-blanco-00268876/\" data-app-placeholder=\"Type Text\" target=\"_blank\">COMPRAR MARCO BLANCO</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "ruI76aSWBP",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content8-g"
         },
         {
           "alias": false,
