@@ -313,7 +313,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/roka-5-2000x2040.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -366,8 +366,8 @@
                 "overlayOpacity": "0.1"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/salon-50x70-paspartu-2000x1312.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/salon1-2-2000x1312.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
