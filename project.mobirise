@@ -907,7 +907,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Marco 50x70cm. VER &gt;&gt;",
+                "caption": "Marco 50x70cm. <a href=\"page4.html\" class=\"text-success\">VER &gt;&gt;</a>",
                 "active": true
               },
               {
@@ -920,7 +920,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Marco 50x70cm. VER &gt;&gt;",
+                "caption": "Marco 50x70cm. <a href=\"page4.html\" class=\"text-success\">VER &gt;&gt;</a>",
                 "active": false
               }
             ]
