@@ -2024,27 +2024,6 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-ruGxZ1QXWf {
-  background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-ruGxZ1QXWf .image-block {
-  margin: auto;
-}
-.cid-ruGxZ1QXWf figcaption {
-  position: relative;
-}
-.cid-ruGxZ1QXWf figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-ruGxZ1QXWf .image-block {
-    width: 100% !important;
-  }
-}
 .cid-ruuTAagIpG {
   padding-top: 90px;
   padding-bottom: 90px;
